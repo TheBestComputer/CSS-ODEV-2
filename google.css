@@ -1,0 +1,61 @@
+.box {
+    width: 1350px;
+    font-style: initial;
+    background-color: rgb(185, 199, 211);
+    text-align: center;
+    margin-left: 70px;
+}
+
+.btn {
+    padding: 2px 2px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    -webkit-box-shadow: -8px 17px 6px -6px #441F1F; 
+    box-shadow: -8px 17px 6px -6px #441F1F;
+    margin-left: 20px;
+    background-color: rgb(103, 117, 128);
+}
+
+.y {
+    margin-top: 7px;
+    width: 1350;
+    height: 30px;
+    margin-left: 70px;
+}
+
+.card {
+    width: 39.75%;
+    height: 80px;
+    float: left;
+    background-color: aquamarine;
+    text-align: center;
+    margin-right: 0.25%;
+}
+
+.card1 {
+    width: 20%;
+    height: 80px;
+    float: left;
+    background-color: rgb(102, 231, 188);
+    text-align: center;
+    margin-right: 0.25%;
+}
+
+.a {
+    padding-top: 5px;
+
+}
+
+.card2 {
+    width: 32.75%;
+    height: 80px;
+    float: left;
+    background-color: rgb(70, 209, 163);
+    text-align: center;
+}
+
+a:active {
+    position: relative;
+    top: 5px;
+  }
